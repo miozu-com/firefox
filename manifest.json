@@ -1,0 +1,60 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Miozu",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(35, 39, 51)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(44, 48, 64)",
+      "tab_background_text": "rgb(243, 244, 247)",
+      "toolbar_field": "rgb(243, 244, 247)",
+      "toolbar_field_text": "rgb(35, 39, 51)",
+      "tab_line": "rgb(62, 67, 89)",
+      "popup": "rgb(31, 34, 61)",
+      "popup_text": "rgb(208, 210, 219)",
+      "button_background_active": "rgb(115, 126, 153)",
+      "button_background_hover": "rgb(86, 94, 120)",
+      "frame_inactive": "rgb(62, 67, 89)",
+      "icons_attention": "rgb(255, 152, 55)",
+      "icons": "rgb(243, 244, 247)",
+      "ntp_background": "rgb(35, 39, 51)",
+      "ntp_text": "rgb(243, 244, 247)",
+      "popup_border": "rgb(35, 39, 51)",
+      "popup_highlight_text": "rgb(64, 255, 226)",
+      "popup_highlight": "rgb(62, 67, 89)",
+      "sidebar_border": "rgb(62, 67, 89)",
+      "sidebar_highlight_text": "rgb(64, 255, 226)",
+      "sidebar_highlight": "rgb(62, 67, 89)",
+      "sidebar_text": "rgb(243, 244, 247)",
+      "sidebar": "rgb(35, 39, 51)",
+      "tab_background_separator": "rgb(62, 67, 89)",
+      "tab_loading": "rgb(109, 214, 114)",
+      "tab_selected": "rgb(35, 39, 51)",
+      "tab_text": "rgb(255, 152, 55)",
+      "toolbar_bottom_separator": "rgb(62, 67, 89)",
+      "toolbar_field_border_focus": "rgb(255, 152, 55)",
+      "toolbar_field_border": "rgb(115, 126, 153)",
+      "toolbar_field_focus": "rgb(44, 48, 64)",
+      "toolbar_field_highlight_text": "rgb(35, 39, 51)",
+      "toolbar_field_highlight": "rgb(131, 210, 252)",
+      "toolbar_field_separator": "rgb(62, 67, 89)",
+      "toolbar_field_text_focus": "rgb(243, 244, 247)",
+      "toolbar_top_separator": "rgb(35, 39, 51)",
+      "toolbar_vertical_separator": "rgb(62, 67, 89)"
+    }
+  }
+}
