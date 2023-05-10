@@ -1,1 +1,2 @@
 Miozu theme for firefox
+https://addons.mozilla.org/en-US/firefox/addon/miozu/
